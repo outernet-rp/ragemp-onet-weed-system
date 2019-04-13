@@ -1,5 +1,5 @@
 cmake_minimum_required( VERSION 3.0.2 )
 project( shared_lib CXX )
-set( SOURCE_LIB src/*.cpp )
+set( SOURCE_LIB src/ )
 add_library( onet-weed-system SHARED ${SOURCE_LIB} )
 add_compile_options( -std=gnu++17 -lstdc++ -fPIC)
