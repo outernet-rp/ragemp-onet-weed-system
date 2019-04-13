@@ -10,3 +10,4 @@ CTestTestfile.cmake
 .vscode
 libonet-weed-system.so
 libonet-weed-system.dll
+libonet-weed-system.dylib
