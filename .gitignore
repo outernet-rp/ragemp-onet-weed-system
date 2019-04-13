@@ -8,3 +8,5 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 .vscode
+libonet-weed-system.so
+libonet-weed-system.dll
